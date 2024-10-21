@@ -24,7 +24,7 @@ The clock will update automatically.
 Feel free to fork this project and make your own contributions. If you'd like to report an issue or suggest an improvement, please open an issue in this repository.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project was created for educational purposes. No specific license is applied, and it's free to use without restrictions.
 
 ## Acknowledgments
-Thanks to all contributors who helped make this project a success!
+Thanks to all contributors who helped make this project a success! :)
