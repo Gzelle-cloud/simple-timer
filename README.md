@@ -17,6 +17,9 @@ cd simple-timer
 npm install
 ### Run the app:
 npm start
+
+## The app will be available at https://simple-clocktimer.netlify.app/
+
 ## Usage
 Simply open the app to view the current time.
 The clock will update automatically.
