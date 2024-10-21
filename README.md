@@ -18,10 +18,8 @@ npm install
 ### Run the app:
 npm start
 ## Usage
-Set your desired time using the input field.
-Click the Start button to begin the countdown.
-Use the Reset button to stop the timer and reset the time.
-You can add multiple timers and manage them as needed.
+Simply open the app to view the current time.
+The clock will update automatically.
 ## Contribution
 Feel free to fork this project and make your own contributions. If you'd like to report an issue or suggest an improvement, please open an issue in this repository.
 
