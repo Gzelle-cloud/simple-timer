@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Read+before+start)](https://git.io/typing-svg)
 # Simple Timer
 Simple Clock is a straightforward and user-friendly clock application that displays the current time. It’s designed for anyone who needs a reliable way to check the time without distractions.
 
